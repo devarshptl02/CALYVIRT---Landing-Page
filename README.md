@@ -28,7 +28,7 @@
 
 ### 🚀 Live Preview & Setup
 
-**Check out the live design here:** [Insert your calyvirt live link here]
+**Check out the live design here:** https://calyvirt.acker7.workers.dev/
 
 **To run this locally, clone the repo and run standard installation commands (like `npm install` and `npm run dev`) based on your setup.**
 
